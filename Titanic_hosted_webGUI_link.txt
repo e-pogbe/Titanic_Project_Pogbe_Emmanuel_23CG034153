@@ -2,3 +2,5 @@ Name: Pogbe Emmanuel
 Matric number: 23CG034153
 MACHINE LEARNING ALGORITHM USED: Logistic Regression
 MODEL PERSISTENCE METHOD USED: Method: Pickle
+
+https://github.com/emmanuel-pogbe/Titanic_Project_Pogbe_Emmanuel_23CG034153

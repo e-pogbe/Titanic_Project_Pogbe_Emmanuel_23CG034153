@@ -1,0 +1,10 @@
+.next
+.vercel
+*.cache
+node_modules
+public
+app
+tests
+docs
+__pycache__
+*.pyc

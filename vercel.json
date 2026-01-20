@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/**": {
+      "excludeFiles": "{.next,.vercel,*.cache,node_modules,public,app,test,tests,docs,__pycache__,*.pyc}/**"
+    }
+  }
+}
